@@ -1,0 +1,4 @@
+# Python Full Course - Learn Python in 12 Hours | Python Tutorial For Beginners | Edureka
+This lesson introduces the matplotlib library and looks at how it can be used.
+
+Matplotlib is a Python package used for 2D graphics e.g. graphs.

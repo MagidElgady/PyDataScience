@@ -1,0 +1,5 @@
+# Python Full Course - Learn Python in 12 Hours | Python Tutorial For Beginners | Edureka
+# SciPy is a library based on Numpy and is used to solve problems in maths
+# and science.
+# SciPy is based on the Numpy library but differs from Numpy with its ability to use
+# numerical code and includes fully-featured mathematical and scientific functions.

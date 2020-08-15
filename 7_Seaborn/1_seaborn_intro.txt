@@ -1,0 +1,10 @@
+# Python Full Course - Learn Python in 12 Hours | Python Tutorial For Beginners | Edureka
+Seaborn is a data visualization library based on matplotlib and is used to create
+statistical graphics.
+. Can compare multiple variables
+. Supports multi-plot grids
+. Plots linear regression automatically
+. Has multiple colour palettes available
+. Allows for bivariate and univariate visualizations
+. Makes it easier to improve the look of a graph
+Note: Seaborn requires the following libraries: pandas, numpy, scipy, statsmodels and matplotlib.
