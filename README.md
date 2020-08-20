@@ -1,4 +1,4 @@
-# PyDataScience
+# Python Data Science
 
 PyDataScience is a project that utilises the core libraries that are found in Data Science.
 
